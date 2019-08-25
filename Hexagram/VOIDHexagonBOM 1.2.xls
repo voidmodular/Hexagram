@@ -1,0 +1,123 @@
+<b>Partlist exported from C:/Users/Sean/Documents/EAGLE/projects/VCA/HEXVCA R1.2.sch at 2/1/2019 1:45 PM</b>
+<p>
+<table>
+<tr><td><b>Part</b></td><td><b>Value</b></td><td><b>Device</b></td><td><b>Package</b></td><td><b>Description</b></td><td><b></b></td></tr>
+<tr><td>C1</td><td>100n</td><td>C-USC0805</td><td>C0805</td><td>CAPACITOR, American symbol</td><td></td></tr>
+<tr><td>C2</td><td>100n</td><td>C-USC0805</td><td>C0805</td><td>CAPACITOR, American symbol</td><td></td></tr>
+<tr><td>C3</td><td>10uf</td><td>C-USC0805</td><td>C0805</td><td>CAPACITOR, American symbol</td><td></td></tr>
+<tr><td>C4</td><td>10uf</td><td>C-USC0805</td><td>C0805</td><td>CAPACITOR, American symbol</td><td></td></tr>
+<tr><td>C5</td><td>100n</td><td>C-USC0805</td><td>C0805</td><td>CAPACITOR, American symbol</td><td></td></tr>
+<tr><td>C6</td><td>100n</td><td>C-USC0805</td><td>C0805</td><td>CAPACITOR, American symbol</td><td></td></tr>
+<tr><td>C7</td><td>100n</td><td>C-USC0805</td><td>C0805</td><td>CAPACITOR, American symbol</td><td></td></tr>
+<tr><td>C8</td><td>100n</td><td>C-USC0805</td><td>C0805</td><td>CAPACITOR, American symbol</td><td></td></tr>
+<tr><td>C9</td><td>100n</td><td>C-USC0805</td><td>C0805</td><td>CAPACITOR, American symbol</td><td></td></tr>
+<tr><td>C10</td><td>100n</td><td>C-USC0805</td><td>C0805</td><td>CAPACITOR, American symbol</td><td></td></tr>
+<tr><td>C11</td><td>100n</td><td>C-USC0805</td><td>C0805</td><td>CAPACITOR, American symbol</td><td></td></tr>
+<tr><td>C12</td><td>100n</td><td>C-USC0805</td><td>C0805</td><td>CAPACITOR, American symbol</td><td></td></tr>
+<tr><td>C13</td><td>100n</td><td>C-USC0805</td><td>C0805</td><td>CAPACITOR, American symbol</td><td></td></tr>
+<tr><td>C14</td><td>100n</td><td>C-USC0805</td><td>C0805</td><td>CAPACITOR, American symbol</td><td></td></tr>
+<tr><td>C15</td><td>100n</td><td>C-USC0805</td><td>C0805</td><td>CAPACITOR, American symbol</td><td></td></tr>
+<tr><td>C16</td><td>100n</td><td>C-USC0805</td><td>C0805</td><td>CAPACITOR, American symbol</td><td></td></tr>
+<tr><td>D1</td><td></td><td>DIODE-SOD123</td><td>SOD123</td><td>DIODE</td><td></td></tr>
+<tr><td>D2</td><td></td><td>DIODE-SOD123</td><td>SOD123</td><td>DIODE</td><td></td></tr>
+<tr><td>IC1</td><td>LM13700M</td><td>LM13700M</td><td>SO16</td><td>Dual OTA with buffers</td><td></td></tr>
+<tr><td>IC2</td><td>TL072D</td><td>TL072D</td><td>SO08</td><td>OP AMP</td><td></td></tr>
+<tr><td>IC3</td><td>TL072D</td><td>TL072D</td><td>SO08</td><td>OP AMP</td><td></td></tr>
+<tr><td>IC4</td><td>LM13700M</td><td>LM13700M</td><td>SO16</td><td>Dual OTA with buffers</td><td></td></tr>
+<tr><td>IC5</td><td>TL072D</td><td>TL072D</td><td>SO08</td><td>OP AMP</td><td></td></tr>
+<tr><td>IC6</td><td>LM13700M</td><td>LM13700M</td><td>SO16</td><td>Dual OTA with buffers</td><td></td></tr>
+<tr><td>IC7</td><td>TL072D</td><td>TL072D</td><td>SO08</td><td>OP AMP</td><td></td></tr>
+<tr><td>J1_IN1</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J2_CV1</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J3_OUT1</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J4_IN2</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J5_CV2</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J6_OUT2</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J7_IN3</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J8_CV3</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J9_OUT3</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J10_IN4</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J11_CV4</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J12_OUT4</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J13_IN5</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J14_CV5</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J15_OUT5</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J16_IN6</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J17_CV6</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J18_OUT6</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>J19_SUM</td><td>THONKICONNNEW</td><td>THONKICONNNEW</td><td>WQP-PJ301M-12_JACK</td><td>3.5mm socket for Eurorack modular synths</td><td></td></tr>
+<tr><td>P1_INIT1</td><td></td><td>9MM_SNAP-IN_POT_</td><td>9MM_SNAP-IN_POT</td><td>9mm vertical snap-in pot, Alpha / Panasonic style</td><td></td></tr>
+<tr><td>P2_INIT2</td><td></td><td>9MM_SNAP-IN_POT_</td><td>9MM_SNAP-IN_POT</td><td>9mm vertical snap-in pot, Alpha / Panasonic style</td><td></td></tr>
+<tr><td>P3_INIT3</td><td></td><td>9MM_SNAP-IN_POT_</td><td>9MM_SNAP-IN_POT</td><td>9mm vertical snap-in pot, Alpha / Panasonic style</td><td></td></tr>
+<tr><td>P4_INIT4</td><td></td><td>9MM_SNAP-IN_POT_</td><td>9MM_SNAP-IN_POT</td><td>9mm vertical snap-in pot, Alpha / Panasonic style</td><td></td></tr>
+<tr><td>P5_INIT5</td><td></td><td>9MM_SNAP-IN_POT_</td><td>9MM_SNAP-IN_POT</td><td>9mm vertical snap-in pot, Alpha / Panasonic style</td><td></td></tr>
+<tr><td>P6_INIT6</td><td></td><td>9MM_SNAP-IN_POT_</td><td>9MM_SNAP-IN_POT</td><td>9mm vertical snap-in pot, Alpha / Panasonic style</td><td></td></tr>
+<tr><td>P7_MASTER</td><td></td><td>9MM_SNAP-IN_POT_</td><td>9MM_SNAP-IN_POT</td><td>9mm vertical snap-in pot, Alpha / Panasonic style</td><td></td></tr>
+<tr><td>R1</td><td>47k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R2</td><td>47k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R3</td><td>12k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R4</td><td>12k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R5</td><td>470r</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R6</td><td>470r</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R7</td><td>470r</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R8</td><td>470r</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R9</td><td>30k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R10</td><td>47k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R11</td><td>30k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R12</td><td>47k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R13</td><td>220k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R14</td><td>220k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R15</td><td></td><td>R-US_M0805</td><td>M0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R16</td><td></td><td>R-US_M0805</td><td>M0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R17</td><td>1k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R18</td><td>100k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R19</td><td>1k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R20</td><td>100k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R21</td><td>100k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R22</td><td>47k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R23</td><td>47k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R24</td><td>12k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R25</td><td>12k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R26</td><td>470r</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R27</td><td>470r</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R28</td><td>100k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R29</td><td>470r</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R30</td><td>470r</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R31</td><td>100k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R32</td><td>30k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R33</td><td>47k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R34</td><td>30k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R35</td><td>47k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R36</td><td>1k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R37</td><td>220k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R38</td><td>220k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R39</td><td>1k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R40</td><td>100k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R41</td><td>1k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R42</td><td>100k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R43</td><td>47k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R44</td><td>47k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R45</td><td>12k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R46</td><td>12k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R47</td><td>470r</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R48</td><td>470r</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R49</td><td>470r</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R50</td><td>470r</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R51</td><td>30k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R52</td><td>47k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R53</td><td>30k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R54</td><td>47k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R55</td><td>220k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R56</td><td>220k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R57</td><td>1k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R58</td><td>100k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R59</td><td>1k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>R60</td><td>100k</td><td>R-US_R0805</td><td>R0805</td><td>RESISTOR, American symbol</td><td></td></tr>
+<tr><td>SV1</td><td>EURO_POWER_HEADERFAT_PADS</td><td>EURO_POWER_HEADERFAT_PADS</td><td>EURO_PWR_HEADER_FAT</td><td>Power Header</td><td></td></tr>
+<tr><td>T1</td><td></td><td>BC857A-PNP-SOT23-BEC</td><td>SOT23-BEC</td><td>PNP Transistror</td><td></td></tr>
+<tr><td>T2</td><td></td><td>BC857A-PNP-SOT23-BEC</td><td>SOT23-BEC</td><td>PNP Transistror</td><td></td></tr>
+<tr><td>T3</td><td></td><td>BC857A-PNP-SOT23-BEC</td><td>SOT23-BEC</td><td>PNP Transistror</td><td></td></tr>
+<tr><td>T4</td><td></td><td>BC857A-PNP-SOT23-BEC</td><td>SOT23-BEC</td><td>PNP Transistror</td><td></td></tr>
+<tr><td>T5</td><td></td><td>BC857A-PNP-SOT23-BEC</td><td>SOT23-BEC</td><td>PNP Transistror</td><td></td></tr>
+<tr><td>T6</td><td></td><td>BC857A-PNP-SOT23-BEC</td><td>SOT23-BEC</td><td>PNP Transistror</td><td></td></tr>
+</table>
